@@ -1,0 +1,9 @@
+{
+    "clientID":"1218245108650999808",
+    "clientSecret":"8iQWyncs8HQ82IFiyRjBBZLkhRWRNlNQ",
+    "callbackURL":"https://discord.com/oauth2/authorize?client_id=1218245108650999808&permissions=0&scope=bot",
+    "Admin":["1128161197766746213"],
+    "token":"MTIxODI0NTEwODY1MDk5OTgwOA.GegT0P.onoP5CUvhFdGaNrgWeWgSCTp5RVH2S_kCehZKw",
+    "prefix":"!",
+    "port":"3000"
+}
